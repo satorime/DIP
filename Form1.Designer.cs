@@ -89,6 +89,8 @@
             SuspendLayout();
 
             this.BackColor = Color.LightGray;
+            pictureBox1.BackColor = Color.White;
+            button1.BackColor = Color.LightBlue;
             // 
             // menuStrip1
             // 
