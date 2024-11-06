@@ -87,6 +87,8 @@
             ((System.ComponentModel.ISupportInitialize)trackBar4).BeginInit();
             ((System.ComponentModel.ISupportInitialize)trackBar5).BeginInit();
             SuspendLayout();
+
+            this.BackColor = Color.LightGray;
             // 
             // menuStrip1
             // 
